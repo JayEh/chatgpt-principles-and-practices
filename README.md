@@ -1,6 +1,6 @@
-# ChatGPT Principles And Practices
+# ChatGPT API Principles And Practices
 # Overview
-This document provides comprehensive guidance on using the ChatGPT API for building complex applications. It covers various introductory topics such as the training of Large Language Models (LLMs), practical usage, system evaluation and improvement, strategies for handling complex applications, tips for system improvement, and the ethical considerations for responsible system usage. This guide is designed to be useful for both technical and non-technical users looking to leverage the ChatGPT API in their projects.
+This document provides guidance on using the ChatGPT API for building applications. It covers various introductory topics such as the training of Large Language Models (LLMs), practical usage, system evaluation and improvement, strategies for handling complex applications, tips for system improvement, and the ethical considerations for responsible system usage. This guide is designed to be useful for both technical and non-technical users looking to leverage the ChatGPT API in their projects.
 
 ## Key Concepts
 ### Large Language Models (LLMs)
